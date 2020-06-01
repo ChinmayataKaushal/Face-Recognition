@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/chinmayata/anaconda3/envs/python-cvcourse/lib/python3.6/site-packages/spyder/app/mainwindow.py", line 3285, in main
+    mainwindow = run_spyder(app, options, args)
+  File "/home/chinmayata/anaconda3/envs/python-cvcourse/lib/python3.6/site-packages/spyder/app/mainwindow.py", line 3140, in run_spyder
+    main.setup()
+  File "/home/chinmayata/anaconda3/envs/python-cvcourse/lib/python3.6/site-packages/spyder/app/mainwindow.py", line 809, in setup
+    from spyder.plugins.console import Console
+ImportError: cannot import name 'Console'
